@@ -1,3 +1,5 @@
+![gitartwork](gitartwork.svg)
+
 Hi 👋 My name is CJ Nicholas
 ==============================
 
