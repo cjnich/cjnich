@@ -1,6 +1,6 @@
 ![gitartwork](gitartwork.svg)
 
-Hi 👋 My name is CJ Nicholas
+# 🏄‍♂️ CJ NICHOLAS
 ==============================
 
 Full Stack Consultant | Engineer
