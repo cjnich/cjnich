@@ -1,6 +1,6 @@
 ![gitartwork](gitartwork.svg)
 
-# 🏄‍♂️ CJ NICHOLAS
+# 🦾 CJ NICHOLAS
 ==============================
 
 Full Stack Consultant | Engineer
