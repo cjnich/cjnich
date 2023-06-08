@@ -21,7 +21,16 @@ One aspect of being a software engineering that I absolutely love is the opportu
 
 ### Latest Release
 
-<p><a href="https://gym.calebnicholas.com/admin"><img src="https://github.com/cjnich/cjnich/blob/main/powerhouse.png" alt="gym_management" width="550" height="400"></a></p>
+## Comprehensive Gym Management
+
+* Simplified Membership Management
+* Robust Class and Appointment Scheduling
+* Integrated Billing and Payment System
+* Member Engagement and Communication
+* Performance Tracking and Reporting
+* Mobile App for Members [In-Development]
+
+<p><a href="https://gym.calebnicholas.com/admin"><img src="https://github.com/cjnich/cjnich/blob/main/powerhouse.png" alt="gym_management" width="450" height="300"></a></p>
 
 ### Badges
 
