@@ -21,7 +21,7 @@ One aspect of being a software engineering that I absolutely love is the opportu
 
 ### Latest Release
 
-![Gym Management](https://github.com/cjnich/cjnich/blob/main/powerhouse.png)](https://gym.calebnicholas.com/admin)
+[![Gym Management](https://github.com/cjnich/cjnich/blob/main/powerhouse.png)](https://gym.calebnicholas.com/admin)
 
 ### Badges
 
