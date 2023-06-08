@@ -29,6 +29,7 @@ One aspect of being a software engineering that I absolutely love is the opportu
 * Member Engagement and Communication
 * Performance Tracking and Reporting
 * Mobile App for Members [In-Development]
+* creds: [owner@demo.com/password] 🛌🏿
 
 <p><a href="https://gym.calebnicholas.com/admin"><img src="https://github.com/cjnich/cjnich/blob/main/powerhouse.png" alt="gym_management" width="450" height="300"></a></p>
 
